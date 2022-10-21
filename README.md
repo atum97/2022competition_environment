@@ -9,3 +9,8 @@
 
 1. 예측 모델 구축 or 지수 시각화를 통한 처리 시설물 입지선정 
 </aside>
+<aside>
+💡 최적의 파라미터 값을 찾아주는 GridSearch 사용해보기!
+
+- xgboost & lightgbm 참고 사이트 ([https://assaeunji.github.io/machine learning/2021-01-07-xgboost/](https://assaeunji.github.io/machine%20learning/2021-01-07-xgboost/))
+</aside>
